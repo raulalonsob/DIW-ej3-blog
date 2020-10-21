@@ -1,0 +1,42 @@
+body {
+    font-family: serif;
+    background-color: rgba(201, 198, 198, 0.938);
+}
+
+h1,h2,h3{
+    font-family: sans-serif;
+}
+
+header{ 
+    color: rgb(0, 119, 255);
+    text-align: center;
+    padding: 1%;
+    background-color: white;
+}
+#container{
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+article{
+    margin-top: 5%;
+    padding: 2%;
+    background-color: white;
+}
+
+article,p{
+    margin-bottom: auto;
+}
+
+.post-head{
+    margin-bottom: auto;
+    padding: 2%;
+    border-bottom: solid black 1px;
+}
+footer{
+    text-align: center;
+}
+small{
+    margin-top: 0%;
+    color: aqua;
+}
