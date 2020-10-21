@@ -26,6 +26,7 @@ article{
 
 article,p{
     margin-bottom: auto;
+    
 }
 
 .post-head{
@@ -39,4 +40,8 @@ footer{
 small{
     margin-top: 0%;
     color: aqua;
+}
+.post-body{
+    padding-bottom: 2%;
+    border-bottom: solid black 1px;
 }
