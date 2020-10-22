@@ -1,3 +1,6 @@
+*{margin: 0%;
+padding: 0%;}
+
 body {
     font-family: serif;
     background-color: rgba(201, 198, 198, 0.938);
@@ -12,20 +15,23 @@ header{
     text-align: center;
     padding: 1%;
     background-color: white;
+    width: 100%;
+    
+    
 }
 #container{
-    margin-left: 15%;
-    margin-right: 15%;
+   margin:0 auto;
+   width: 50%;
     
 }
 article{
     margin-top: 5%;
-    padding: 2%;
     background-color: white;
 }
 
 article,p{
     margin-bottom: auto;
+    padding: 2%;
     
 }
 
@@ -44,4 +50,8 @@ small{
 .post-body{
     padding-bottom: 2%;
     border-bottom: solid black 1px;
+}
+
+h2{
+    margin: 0px;
 }
